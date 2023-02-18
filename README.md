@@ -24,6 +24,3 @@ To setup the repository these steps are to be followed :
 ### Shopping Cart
 <img src = "https://github.com/mahajandeepakshi03/Fashion-House/blob/main/3.PNG">
 
-## Link of the deployed App
-The app is deployed using Python Everywhere 
-Link : http://djangoecommerce.pythonanywhere.com/
